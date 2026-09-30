@@ -1,4 +1,2 @@
-RapBind 0.3.DL - safe command registration test
-
-This build only registers /bind. It does not touch chat, UI, config, or keybind logic.
-Offsets: 0x2ACA14 input info, 0x691B0 AddClientCommand for SA-MP 0.3.DL.
+RapBind 0.3.DL prototype.
+/bind opens the draggable bind editor. Defaults: F3 and F4. Config is saved as RapBind.ini beside gta_sa.exe.
